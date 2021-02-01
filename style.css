@@ -1,0 +1,18 @@
+body {
+  background: #04F5Bf;
+  text-align: center;
+  font-family: 'Arial';
+}
+
+h1 {
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+button {
+  cursor: pointer;
+  margin: 4px 4px;
+  font-size: 16px;
+  text-align: center;
+}
